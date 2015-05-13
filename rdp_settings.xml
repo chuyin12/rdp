@@ -1,0 +1,5 @@
+﻿<settings>
+    <default value="DEMANT\A-SAPE"/>
+    <pubdemant value="PUBDEMANT\A-PUB_SAPE"/>
+    <dmz value="DMZ\A-DMZ_SPE"/>
+</settings>
